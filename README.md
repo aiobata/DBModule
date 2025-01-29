@@ -1,2 +1,2 @@
 # DBModule
-Dwarf bamboo modeule for SEIB-DGVM
+Dwarf bamboo module for SEIB-DGVM
